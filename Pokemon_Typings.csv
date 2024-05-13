@@ -1,4 +1,4 @@
-Ndex,Pokémon,Type,Secondary Typing,Special Form,Generation
+Ndex,PokÃ©mon,Type,Secondary Typing,Special Form,Generation
 #0001,Bulbasaur,Grass,Poison,,1
 #0002,Ivysaur,Grass,Poison,,1
 #0003,Venusaur,Grass,Poison,,1
@@ -734,7 +734,7 @@ Ndex,Pokémon,Type,Secondary Typing,Special Form,Generation
 #0666,Vivillon,Bug,Flying,,6
 #0667,Litleo,Fire,Normal,,6
 #0668,Pyroar,Fire,Normal,,6
-#0669,Flabébé,Fairy,,,6
+#0669,FlabÃ©bÃ©,Fairy,,,6
 #0670,Floette,Fairy,,,6
 #0671,Florges,Fairy,,,6
 #0672,Skiddo,Grass,,,6
@@ -813,7 +813,7 @@ Ndex,Pokémon,Type,Secondary Typing,Special Form,Generation
 #0740,Crabominable,Fighting,Ice,,7
 #0741,Oricorio,Fire,Flying,Baile Style,7
 #0741,Oricorio,Electric,Flying,Pom-Pom Style,7
-#0741,Oricorio,Psychic,Flying,Pa’u Style,7
+#0741,Oricorio,Psychic,Flying,PaÂ’u Style,7
 #0741,Oricorio,Ghost,Flying,Sensu Style,7
 #0742,Cutiefly,Bug,Fairy,,7
 #0743,Ribombee,Bug,Fairy,,7
